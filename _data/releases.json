@@ -7,8 +7,7 @@
     "name": "orange v0.8.0",
     "created_at": "2019-10-17",
     "body": "\r\n
-    * 添加插件： signature auth plugin\r\n
-    * 将默认的配置文件做成模板，即ngingx.conf.example和orange.conf.example\r\n
+    * 使用全新的 luarocks 方式安装 Orange 一键安装更方便 更高效\r\n
     ",
     "version": "v0.6.3"
   },
